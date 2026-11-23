@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>https://zj818136.github.io/my-docs/</loc>
+         <loc>https://zj818136.github.io/my-docs/index.html</loc>
          <lastmod>2026-11-23</lastmod>
     </url>
     <url>
-         <loc>https://zj818136.github.io/my-docs/about/</loc>
+         <loc>https://zj818136.github.io/my-docs/about.html</loc>
          <lastmod>2026-11-23</lastmod>
     </url>
     <url>
-         <loc>https://zj818136.github.io/my-docs/shturl/</loc>
+         <loc>https://zj818136.github.io/my-docs/shturl.html</loc>
          <lastmod>2026-11-23</lastmod>
     </url>
     <url>
-         <loc>https://zj818136.github.io/my-docs/test/</loc>
+         <loc>https://zj818136.github.io/my-docs/test.html</loc>
          <lastmod>2026-11-23</lastmod>
     </url>
 </urlset>
