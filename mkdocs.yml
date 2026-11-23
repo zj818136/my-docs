@@ -1,0 +1,9 @@
+﻿site_name: 我的文档
+site_url: https://zj818136.github.io/my-docs/
+nav:
+  - 首页: index.md
+  - 关于: about.md
+  - 日志: shturl.md
+  - 测试: test.md
+theme:
+  name: material
