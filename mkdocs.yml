@@ -1,5 +1,6 @@
 ﻿site_name: 我的文档
 site_url: https://zj818136.github.io/my-docs/
+use_directory_urls: false
 nav:
   - 首页: index.md
   - 关于: about.md
